@@ -7,3 +7,5 @@ Zunächst haben wir die Stunde mit einer Kurzen Einführung begonnen. Dann haben
 
 
 ## Mittwoch 4. August
+
+Heute haben wir uns weiter mit dem Programmieren befasst und wir haben uns dazu entschieden mit Snap zu programmieren.
