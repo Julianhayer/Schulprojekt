@@ -8,4 +8,7 @@ Zunächst haben wir die Stunde mit einer Kurzen Einführung begonnen. Dann haben
 
 ## Mittwoch 4. August
 
-Heute haben wir uns weiter mit dem Programmieren befasst und wir haben uns dazu entschieden mit Snap zu programmieren.
+Heute haben wir uns weiter mit dem Programmieren befasst, wir konnten uns jedoch noch nicht für eine Programmiersprache entscheiden. 
+
+## Dienstag 10. August
+Zuhause haben wir uns mit unteschiedlichen Programmeirsprachen befasst und haben uns schlußendlich für JavaScript entschieden, da Julian bereits einige Vorkenntnisse mit dieser Programmiersprache hat. Wir verbrachten den Großteil der Stunde damit, uns die Grundlagen anzueignen, um mit dem Programmieren des Spiel zu starten.
