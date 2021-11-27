@@ -4,10 +4,13 @@
  
  
  * [Programm](#Programm)
+ 
  * [Aufbau des Spiels](#Aufbau des Spiels)
   * [verschiedene Spielmodi](#verschiedene Spielmodi)
+ 
  * [Steuerung](#Steuerung)
- * [Stundenprotokoll](#Stundenprotokoll)
+
+* [Stundenprotokoll](#Stundenprotokoll)
 
 
 
@@ -15,7 +18,7 @@
 ## Programm
 ## Aufbau des Spiels
 ### verschiedene Spielmodi
-## Steueurung
+## Steuerung
 ## Stundenprotokoll
 
 ### Dienstag 3. August
