@@ -16,7 +16,7 @@
 
 
 ## Programm
-## Aufbau des Spiels
+## Aufbau des Spiels 
 ### verschiedene Spielmodi
 ## Steuerung
 ## Stundenprotokoll
