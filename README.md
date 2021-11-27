@@ -7,7 +7,7 @@
  * [Aufbau des Spiels] (#Aufbau des Spiels)
   * [verschiedene Spielmodi] (#verschiedene Spielmodi)
  * [Steuerung] (#Steuerung)
- * [Stundenprotokoll] (##Stundenprotokoll)
+ * [Stundenprotokoll](#Stundenprotokoll)
 
 
 ## Stundenprotokoll <a name="Stundenprotokoll"></a>
