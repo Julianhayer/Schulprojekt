@@ -2,10 +2,10 @@
 *von Julian und Enis, 12bc*
 ## Inhaltsverzeichnis
  
- 
  * [Programm](#Programm)
  
  * [Aufbau des Spiels](#Aufbau des Spiels)
+  * [Spielidee](#Spielidee) 
   * [verschiedene Spielmodi](#verschiedene Spielmodi)
  
  * [Steuerung](#Steuerung)
@@ -20,7 +20,10 @@
 Als Programm für unser Spiel verwendeten wir "Scratch", eine besonders anfänderfreundliche Programiersprache, die keine Vorkenntnisse in einer Programmiersprache vorraussetzte. Ihr Ziel ist es Neueinsteiger, besonders Kinder und Jugendliche mit den Grundkonzepten des Programmieren vertraut zu machen. Hierbei wird der Quellcode in Blöcke vereinfacht, die nach Belieben zusammengeheftet werden können. Die verschiedenen Blockarten unterscheiden sich hier in der Farbe und macht Scratch zu einer sehr visuellen und optisch ansprechenden Programmiersprache. 
 
 
-## Aufbau des Spiels 
+## Aufbau des Spiels
+
+### Spielidee 
+
 ### verschiedene Spielmodi
 ## Steuerung
 ## Stundenprotokoll
