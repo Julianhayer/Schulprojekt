@@ -17,7 +17,9 @@
 
 ## Programm
 ![Scratchlogo svg](https://user-images.githubusercontent.com/88385822/143713115-9840c9ea-9b26-4cbf-aaf7-b0768424819b.png)
-Als Programm für unser Spiel verwendeten wir "Scratch", eine besonders anfänderfreundliche Programiersprache, die keine Vorkentnisse in einer Programmiersprahce vorraussetzte. Ihr Ziel ist es Neueinsteiger besonders Kinder und Jugendliche mit den Grundkonzepten des Programmieren vertraut zu machen. Hierbei wird der QUellcode in Blöcke verienfacht, die nach belieben zusammengehfetet werden können. Die verschiedenen Blockartten unterscheide3n sich hier in der Farbe und macht das Programm zu einer sehr visuellen und optisch ansprechenden Programmiersprache. 
+Als Programm für unser Spiel verwendeten wir "Scratch", eine besonders anfänderfreundliche Programiersprache, die keine Vorkenntnisse in einer Programmiersprache vorraussetzte. Ihr Ziel ist es Neueinsteiger, besonders Kinder und Jugendliche mit den Grundkonzepten des Programmieren vertraut zu machen. Hierbei wird der Quellcode in Blöcke vereinfacht, die nach Belieben zusammengeheftet werden können. Die verschiedenen Blockarten unterscheiden sich hier in der Farbe und macht Scratch zu einer sehr visuellen und optisch ansprechenden Programmiersprache. 
+
+
 ## Aufbau des Spiels 
 ### verschiedene Spielmodi
 ## Steuerung
