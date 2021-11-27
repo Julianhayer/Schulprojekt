@@ -16,6 +16,7 @@
 
 
 ## Programm
+![Scratchlogo svg](https://user-images.githubusercontent.com/88385822/143713115-9840c9ea-9b26-4cbf-aaf7-b0768424819b.png)
 ## Aufbau des Spiels 
 ### verschiedene Spielmodi
 ## Steuerung
