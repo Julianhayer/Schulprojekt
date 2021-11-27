@@ -13,7 +13,7 @@
 
 
 ## Programm
-## Aufbau des Spiel
+## Aufbau des Spiels
 ### verschiedene Spielmodi
 ## Steueurung
 ## Stundenprotokoll
