@@ -14,6 +14,7 @@
 
 ## Programm
 ## Aufbau des Spiel
+### verschiedene Spielmodi
 ## Steueurung
 ## Stundenprotokoll
 
