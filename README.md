@@ -31,6 +31,7 @@ Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht
 
 ![map github](https://user-images.githubusercontent.com/88385824/143918804-346d21d4-c54f-4d47-b981-a4b120c6014d.png)
 
+Das Rennen findet auf dieser Karte statt und der Gewinner ist der, der zuerst drei Runden absolviert.
 ### verschiedene Spielmodi
 ## Steuerung
 ## Stundenprotokoll
