@@ -5,8 +5,8 @@
  * [Programm](#Programm)
  
  * [Aufbau des Spiels](#Aufbau des Spiels)
-  ** [Spielidee](#Spielidee) 
-  ** [verschiedene Spielmodi](#verschiedene Spielmodi)
+   * [Spielidee](#Spielidee) 
+   * [verschiedene Spielmodi](#verschiedene Spielmodi)
  
  * [Steuerung](#Steuerung)
 
