@@ -42,6 +42,7 @@ Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthäkt u
 Wenn man auf das "Play" drückt bekommt man die Möglichkeit im Einzelspieler oder Mehrspieler zu spielen. Auch hier ändert sich die Farbe wenn man mit dem Mauszeiger über die einzelnen Möglichkeiten geht.
 
 ![d6br25m6](https://user-images.githubusercontent.com/88385824/143944069-054079aa-4086-47dd-91d8-e7b39558e1cf.gif)
+Das Ändern der farbe wird durch veschiedene Köstume erreicht, die sich ändern, wenn der Mauszeiger den Sprite berührt. 
 
 ## Steuerung
 ## Stundenprotokoll
