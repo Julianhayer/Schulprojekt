@@ -47,6 +47,8 @@ Das Ändern der Farbe wird durch veschiedene Köstume erreicht, die sich ändern
 
 ![Kostum switch Startbildschirm](https://user-images.githubusercontent.com/88385824/143945077-8ad9b1f4-dac3-4f29-ab06-99e1742a2248.PNG)
 
+#### Einzelspieler
+Sobald der Button vom Einzelspieler bei der Auswahl der Spielmodi angeklickt wird, wird die Message Einzelspieler Steurung gebroadcastet, die den Spieler zum Steuerungsmenü bringt, in der die Steuerung erklärt wird. Hier wird logischer Weise nur die Steuerung für einen Spieler erklärt. Hier wird die Message "Einzelspieler Steurung gebroacastet, die dieses Menü auruft. Wenn man beim Steurungsmenü weiterklickt beginnt das Spiel. Hier ist dann nur Mario zu sehen. 
 
 ## Steuerung
 ## Stundenprotokoll
