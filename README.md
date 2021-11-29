@@ -29,6 +29,7 @@ Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht
 
 *Beispiel für ein Item*
 
+![map github](https://user-images.githubusercontent.com/88385824/143918804-346d21d4-c54f-4d47-b981-a4b120c6014d.png)
 
 ### verschiedene Spielmodi
 ## Steuerung
