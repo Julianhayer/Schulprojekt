@@ -33,6 +33,12 @@ Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht
 
 Das Rennen findet auf dieser Karte statt und der Gewinner ist der, der zuerst drei Runden absolviert.
 ### verschiedene Spielmodi
+
+#### Beginn des Spiels
+Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthäkt und die Möglichkeiten "Play" und "Steuerung". Wenn man mit dem Mauszeiger über die einzelnen Auswahlmöglichkeiten geht wechselt sich ihre Farbe. 
+
+
+
 ## Steuerung
 ## Stundenprotokoll
 
