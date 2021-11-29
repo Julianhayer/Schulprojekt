@@ -4,9 +4,9 @@
  
  * [Programm](#Programm)
  
- * [Aufbau des Spiels](#Aufbau des Spiels)
+ * [Aufbau des Spiels](#AufbaudesSpiels)
    * [Spielidee](#Spielidee) 
-   * [verschiedene Spielmodi](#verschiedene Spielmodi)
+   * [verschiedene Spielmodi](#verschiedeneSpielmodi)
  
  * [Steuerung](#Steuerung)
 
