@@ -39,6 +39,9 @@ Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthäkt u
 
 ![3axvaw9y](https://user-images.githubusercontent.com/88385824/143930741-8400e1e9-f838-405a-899e-0f3b96b0459c.gif)
 
+Wenn man auf das "Play" drückt bekommt man die Möglichkeit im Einzelspieler oder Mehrspieler zu spielen 
+
+
 ## Steuerung
 ## Stundenprotokoll
 
