@@ -44,6 +44,9 @@ Wenn man auf das "Play" drückt bekommt man die Möglichkeit im Einzelspieler od
 ![d6br25m6](https://user-images.githubusercontent.com/88385824/143944069-054079aa-4086-47dd-91d8-e7b39558e1cf.gif)
 Das Ändern der farbe wird durch veschiedene Köstume erreicht, die sich ändern, wenn der Mauszeiger den Sprite berührt. 
 
+![Kostum switch Startbildschirm](https://user-images.githubusercontent.com/88385824/143945077-8ad9b1f4-dac3-4f29-ab06-99e1742a2248.PNG)
+
+
 ## Steuerung
 ## Stundenprotokoll
 
