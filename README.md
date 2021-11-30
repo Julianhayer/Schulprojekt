@@ -5,10 +5,10 @@
  * [Programm](#Programm)
  
  * [Aufbau des Spiels](#AufbaudesSpiels)
-   * [Spielidee](#Spielidee) 
-   * [verschiedene Spielmodi](#verschiedeneSpielmodi)
- 
- * [Steuerung](#Steuerung)
+   * [Der Code](#DerCode)
+    * [Spielidee](#Spielidee) 
+    * [verschiedene Spielmodi](#verschiedeneSpielmodi)
+    *  [Steuerung](#Steuerung)
 
 * [Stundenprotokoll](#Stundenprotokoll)
 
@@ -32,7 +32,8 @@ Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht
 ![map github](https://user-images.githubusercontent.com/88385824/143918804-346d21d4-c54f-4d47-b981-a4b120c6014d.png)
 
 Das Rennen findet auf dieser Karte statt und der Gewinner ist der, der zuerst drei Runden absolviert.
-### verschiedene Spielmodi
+
+### Der Code
 
 #### Beginn des Spiels
 Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthäkt und die Möglichkeiten "Play" und "Steuerung". Wenn man mit dem Mauszeiger über die einzelnen Auswahlmöglichkeiten geht wechselt sich ihre Farbe. 
@@ -46,6 +47,7 @@ Wenn man auf das "Play" drückt bekommt man die Möglichkeit im Einzelspieler od
 Das Ändern der Farbe wird durch veschiedene Köstume erreicht, die sich ändern, wenn der Mauszeiger den Sprite berührt. 
 
 ![Kostum switch Startbildschirm](https://user-images.githubusercontent.com/88385824/143945077-8ad9b1f4-dac3-4f29-ab06-99e1742a2248.PNG)
+### verschiedene Spielmodi
 
 #### Einzelspieler
 Sobald der Button vom Einzelspieler bei der Auswahl der Spielmodi angeklickt wird, wird die Message Einzelspieler Steurung gebroadcastet, die den Spieler zum Steuerungsmenü bringt, in der die Steuerung erklärt wird. Hier wird logischer Weise nur die Steuerung für einen Spieler erklärt. Hier wird die Message "Einzelspieler Steurung gebroacastet, die dieses Menü auruft. Wenn man beim Steurungsmenü weiterklickt beginnt das Spiel. Hier ist dann nur Mario zu sehen. 
@@ -53,7 +55,9 @@ Sobald der Button vom Einzelspieler bei der Auswahl der Spielmodi angeklickt wir
 ![IMG_0777](https://user-images.githubusercontent.com/88385824/144026395-f4bea4f4-80bd-4806-8e86-fbd5a35d184b.jpeg)                                                                                                                                           
 
 ![IMG_0778](https://user-images.githubusercontent.com/88385824/144028480-32106d49-18ef-40fb-9cf1-479b1c47a3e9.jpeg)
-## Steuerung
+
+
+### Steuerung
 ## Stundenprotokoll
 
 ### Dienstag 3. August
