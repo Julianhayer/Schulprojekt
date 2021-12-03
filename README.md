@@ -95,7 +95,20 @@ Wenn man sich im Menü zur Auswahl des Spielmodis befindet und den Mehrspieler a
 
 <details>
  <summary>Genauer</summary>
- d
+ 
+ ![Steuerung multiplayer](https://user-images.githubusercontent.com/88385824/144657877-7b0f812d-be20-43b8-9e3d-5716b1d013ed.PNG)
+ 
+ ![Steurung Multiplayer Mario](https://user-images.githubusercontent.com/88385824/144657879-cd0d55f4-78ff-4364-8fec-79a853bb0956.PNG)
+
+ ![Steuerung Luigi](https://user-images.githubusercontent.com/88385824/144657884-4db91a3d-99a2-49ba-9cbd-b4cec2f81fe0.PNG)
+
+
+![Countdown Multiplayer](https://user-images.githubusercontent.com/88385824/144657886-ba05d0be-0939-496d-8fd3-599f20d7677b.PNG)
+ 
+![Start game multiplayer](https://user-images.githubusercontent.com/88385824/144657891-43f16acb-5136-4d4e-95ad-df61e6e93419.PNG)
+
+
+</details> <hr>
 
 ### Steuerung
 ## Stundenprotokoll
