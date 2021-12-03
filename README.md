@@ -86,6 +86,8 @@ Durch Anklicken des Steuerungsmenü wird der Countdownsprite gestartet, dieser s
 
 ![h6js39kd](https://user-images.githubusercontent.com/88385824/144629680-ae08ace1-44c5-4e27-92cb-9026cdb70bdb.gif)
 
+ </details> <hr>
+ 
 #### Mehrspieler  
 
 ### Steuerung
