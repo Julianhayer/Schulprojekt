@@ -130,13 +130,17 @@ Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Item
 ![Player 1](https://user-images.githubusercontent.com/88385824/144681851-56a816db-7852-4eff-8161-f310cb56ca7f.PNG)
 
 ![Mario Sprite](https://user-images.githubusercontent.com/88385824/144682098-96a9a5de-6844-498c-b312-6cbf0e26be27.PNG)
-Wenn der Mario Sprite die Message "Countdown" erhält, wird sein Größe um 50 % reduziert und zeigt in 0 Grad Richtung, damit er nach vorne schaut. Außerdem muss der Rotationstil nicht rotieren ausgewählt werden, damit er der Sprite nicht in  
+Wenn der Mario Sprite die Message "Countdown" erhält, wird sein Größe um 50 % reduziert und zeigt in 0 Grad Richtung, damit er nach vorne schaut. Außerdem muss der Rotationstil nicht rotieren ausgewählt werden, damit sich der Sprite zweidimensional nach links oder rechts dreht. Andernfalls dreht er sich um seine eigene Achse. Der Mario Sprite befindet sich durch den forever Block immer auf dem roten Punkt, dessen Sprite Player 1 ist. DIRECTION ERRKLÄREN
 
  
  
 ![links mario](https://user-images.githubusercontent.com/88385824/144681318-b38ab456-16a1-4555-98bd-5a8b552f4d3b.PNG)
 ![rechts mario](https://user-images.githubusercontent.com/88385824/144681326-21a88f42-9690-41d4-869e-bbccbeab9187.PNG)
-Wenn die rechte oder linke Pfeiltaste gedrückt wird dreht sich Mario um jeweils 7 Grad 
+
+Wenn die rechte oder linke Pfeiltaste gedrückt wird drehen sich der rote Punkt und Mario um jeweils 7 Grad. 
+  
+Beim Spieler zwei funktioniert das Lenken idetisch, nur das man A und D zum Lenken verwedet.
+  
 
 
  </details> <hr>
