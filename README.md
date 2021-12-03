@@ -127,6 +127,8 @@ Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Item
  Bei den spielbaren Figuren handelt es sich um rote Punkte, die gelenkt werden. Der Mario Sprite befindet sich dauerhaft auf diesem roten Punkt und dreht sich mit dem Punkt zusammen. 
 ![Player 1](https://user-images.githubusercontent.com/88385824/144681851-56a816db-7852-4eff-8161-f310cb56ca7f.PNG)
 
+![Mario Sprite](https://user-images.githubusercontent.com/88385824/144682098-96a9a5de-6844-498c-b312-6cbf0e26be27.PNG)
+Wenn der Mario Sprite die Message "Countdown" erhält, wird sein Größe um 50 % reduziert und zeigt in 0 Grad Richtung, damit er nach vorne schaut. Außerdem muss der Rotationstil nicht rotieren ausgewählt werden, damit er der Sprite nicht in  
 
  
  
