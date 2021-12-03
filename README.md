@@ -6,9 +6,9 @@
  
  * [Aufbau des Spiels](#AufbaudesSpiels)
     * [Spielidee](#Spielidee) 
-    * * [Der Code](#DerCode)
+    * [Der Code](#DerCode)
     * [verschiedene Spielmodi](#verschiedeneSpielmodi)
-    *  [Steuerung](#Steuerung)
+    * [Steuerung](#Steuerung)
 
 * [Stundenprotokoll](#Stundenprotokoll)
 
