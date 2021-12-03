@@ -68,6 +68,9 @@ Beim Anklicken des Einzelspieler Buttons wird man zur Erklärung der Steuerung w
 
 Das Steuerungsmenü entsteht durch die Message "Steuerung Einzelspieler", der Sprite wechselt dann zwischen zwei Kostümen. 
 
+![86zvjvy1](https://user-images.githubusercontent.com/88385824/144624672-78c2392e-d530-4196-a554-8ecf6620ab23.gif)
+
+
 
 ![Einzelspieler button github](https://user-images.githubusercontent.com/88385824/144621732-62292732-c6a9-4950-ab82-7b85d01cb1db.PNG)
 
