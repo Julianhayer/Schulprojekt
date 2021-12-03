@@ -120,6 +120,7 @@ Wenn dann weitergeklickt wird, startet sich der Countdown dieser zählt von 3 ru
 </details> <hr>
 
 ## Steuerung
+Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Items kann man mit der Leertaste auslösen. Der Spieler 2 lenkt mit A und D und löst seine Items mit B aus.
 
 
 
