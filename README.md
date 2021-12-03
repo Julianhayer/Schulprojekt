@@ -51,6 +51,7 @@ Das Ändern der Farbe wird durch veschiedene Köstume erreicht, die sich ändern
 ![Kostum switch Startbildschirm](https://user-images.githubusercontent.com/88385824/143945077-8ad9b1f4-dac3-4f29-ab06-99e1742a2248.PNG)
 
 ### Verschiedene Spielmodi
+Es gibt zwei Spielmodi, einen Einzelspieler und einen Mehrspieler, der von zwei gleichzeitig gespielt werden kann.
 
 #### Einzelspieler
 Zunächst befindet man sich im Startmenü mit den Auswahlmöglichkeiten "Play" und "Steuerung". Wenn man auf Play drückt wird man zur Auswahl der Spielmodi gebracht. Sobald der Button vom Einzelspieler bei der Auswahl der Spielmodi angeklickt wird, erhält man eine Erklärung der Steuerung. Wenn man weiterklickt beginnt das Spiel. Hier kann man dann nur mit Mario spielen und es handelt sich um ein Zeitrennen.
@@ -85,6 +86,7 @@ Durch Anklicken des Steuerungsmenü wird der Countdownsprite gestartet, dieser s
 
 ![h6js39kd](https://user-images.githubusercontent.com/88385824/144629680-ae08ace1-44c5-4e27-92cb-9026cdb70bdb.gif)
 
+#### Mehrspieler  
 
 ### Steuerung
 ## Stundenprotokoll
