@@ -6,7 +6,7 @@
  
  * [Aufbau des Spiels](#AufbaudesSpiels)
     * [Spielidee](#Spielidee)
-    * [verschiedene Spielmodi](#verschiedeneSpielmodi)
+    * [verschiedene Spielmodi](#VerschiedeneSpielmodi)
     * [Steurung](#Steurung)
  
  * [wichtige Objekte](#wichtigeObjekte)
