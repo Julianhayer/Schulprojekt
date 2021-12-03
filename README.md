@@ -53,9 +53,13 @@ Das Ändern der Farbe wird durch veschiedene Köstume erreicht, die sich ändern
 Zunächst befindet man sich im Startmenü mit den Auswahlmöglichkeiten "Play" und "Steuerung". Wenn man auf Play drückt wird man zur Auswahl der Spielmodi gebracht. Sobald der Button vom Einzelspieler bei der Auswahl der Spielmodi angeklickt wird, erhält man eine Erklärung der Steuerung. Wenn man weiterklickt beginnt das Spiel. Hier kann man dann nur mit Mario spielen und es handelt sich um ein Zeitrennen.
 
 ![IMG_0777](https://user-images.githubusercontent.com/88385824/144026395-f4bea4f4-80bd-4806-8e86-fbd5a35d184b.jpeg)                                                                                                                                           
+![Moduswahl github](https://user-images.githubusercontent.com/88385824/144619938-ac11314f-15e0-4c48-aac2-4fef3de331ca.PNG)
+
+Wenn der "Play" Button angeklickt wird, erscheint ein neues Menu mit den Möglichkeiten EInzelspieler und Mehrspieler.
+
+![3axvaw9y](https://user-images.githubusercontent.com/88385824/143930741-8400e1e9-f838-405a-899e-0f3b96b0459c.gif)
 
 
-Wenn der Play Button angeklickt wird, 
 
 ### Steuerung
 ## Stundenprotokoll
