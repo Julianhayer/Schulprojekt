@@ -54,7 +54,6 @@ Zunächst befindet man sich im Startmenü mit den Auswahlmöglichkeiten "Play" u
 
 ![IMG_0777](https://user-images.githubusercontent.com/88385824/144026395-f4bea4f4-80bd-4806-8e86-fbd5a35d184b.jpeg)                                                                                                                                           
 
-![IMG_0778](https://user-images.githubusercontent.com/88385824/144028480-32106d49-18ef-40fb-9cf1-479b1c47a3e9.jpeg)
 
 
 ### Steuerung
