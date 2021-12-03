@@ -7,7 +7,7 @@
  * [Aufbau des Spiels](#AufbaudesSpiels)
     * [Spielidee](#Spielidee)
     * [verschiedene Spielmodi](#Spielmodi)
-    * [Steurung](#Steurung)
+    * [Steuerung](#Steuerung)
  
  * [wichtige Objekte](#wichtigeObjekte)
     * [Karte](#Karte)
