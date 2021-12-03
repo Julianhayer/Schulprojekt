@@ -122,6 +122,7 @@ Wenn dann weitergeklickt wird, startet sich der Countdown dieser zählt von 3 ru
 ## Steuerung
 Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Items kann man mit der Leertaste auslösen. Der Spieler 2 lenkt mit A und D und löst seine Items mit B aus. Die Geschwindigkeit kann ohne das Verwenden von Items oder das Nichtfahren auf der Straße nicht verändert werden. 
 
+ <details>
  <summary>Genauer</summary>
  
  Bei den spielbaren Figuren handelt es sich um rote Punkte, die gelenkt werden. Der Mario Sprite befindet sich dauerhaft auf diesem roten Punkt und dreht sich mit dem Punkt zusammen. 
