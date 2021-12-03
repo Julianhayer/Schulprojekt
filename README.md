@@ -62,7 +62,7 @@ Zunächst befindet man sich im Startmenü mit den Auswahlmöglichkeiten "Play" u
 
 ![Moduswahl github](https://user-images.githubusercontent.com/88385824/144619938-ac11314f-15e0-4c48-aac2-4fef3de331ca.PNG)
 
-Wenn der "Play" Button angeklickt wird, erscheint ein neues Menu mit den Möglichkeiten EInzelspieler und Mehrspieler.
+Wenn der "Play" Button angeklickt wird, erscheint ein neues Menu mit den Möglichkeiten Einzelspieler und Mehrspieler.
 
 ![d6br25m6](https://user-images.githubusercontent.com/88385824/143944069-054079aa-4086-47dd-91d8-e7b39558e1cf.gif)
 
@@ -107,10 +107,11 @@ Wenn man sich im Menü zur Auswahl des Spielmodis befindet und den Mehrspieler a
 
 ![Countdown Multiplayer](https://user-images.githubusercontent.com/88385824/144657886-ba05d0be-0939-496d-8fd3-599f20d7677b.PNG)
  
-Wenn dann weitergeklickt wird, startet sich der Countdown der widerrum das Spiel startet. Anders als beim Einzelspieler werden erscheinen hier Mario und Luigi, da beide durch die jeweiligen Messages "Spieler 1 Start" und "Spieler 2 Start" erscheinen. Außerdem erscheinen beide Item Reels der jeweiligen Spieler. Der von Spieler 1 oben und der von Spieler 2 unten. Diese werden durch die Message "Item Reel Spieler 1 Start" und "Item Reel Spieler 2 Start" getriggert.  
+Wenn dann weitergeklickt wird, startet sich der Countdown dieser zählt von 3 runter und startet das Spiel. Anders als beim Einzelspieler werden erscheinen hier Mario und Luigi, da beide durch die jeweiligen Messages "Spieler 1 Start" und "Spieler 2 Start" erscheinen. Außerdem erscheinen beide Item Reels der jeweiligen Spieler. Der von Spieler 1 oben und der von Spieler 2 unten. Diese werden durch die Message "Item Reel Spieler 1 Start" und "Item Reel Spieler 2 Start" getriggert.  
 
  ![Start game multiplayer](https://user-images.githubusercontent.com/88385824/144657891-43f16acb-5136-4d4e-95ad-df61e6e93419.PNG)
 
+ 
 
 </details> <hr>
 
