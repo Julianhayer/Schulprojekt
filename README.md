@@ -9,7 +9,7 @@
     * [verschiedene Spielmodi](#verschiedeneSpielmodi)
     * [Steurung](#Steurung)
  
- * [wichtige Objekte](#wichtige Objekte)
+ * [wichtige Objekte](#wichtigeObjekte)
     * [Karte](#Karte)
     * [Rundenzähler](#Rundenzähler)
     * [Items](#Items)
