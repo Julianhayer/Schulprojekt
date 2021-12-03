@@ -55,6 +55,7 @@ Zunächst befindet man sich im Startmenü mit den Auswahlmöglichkeiten "Play" u
 ![IMG_0777](https://user-images.githubusercontent.com/88385824/144026395-f4bea4f4-80bd-4806-8e86-fbd5a35d184b.jpeg)                                                                                                                                           
 
 
+Wenn der Play Button angeklickt wird, 
 
 ### Steuerung
 ## Stundenprotokoll
