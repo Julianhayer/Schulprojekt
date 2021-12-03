@@ -47,6 +47,7 @@ Wenn man auf das "Play" drückt bekommt man die Möglichkeit im Einzelspieler od
 Das Ändern der Farbe wird durch veschiedene Köstume erreicht, die sich ändern, wenn der Mauszeiger den Sprite berührt. 
 
 ![Kostum switch Startbildschirm](https://user-images.githubusercontent.com/88385824/143945077-8ad9b1f4-dac3-4f29-ab06-99e1742a2248.PNG)
+
 ### verschiedene Spielmodi
 
 #### Einzelspieler
@@ -57,8 +58,7 @@ Zunächst befindet man sich im Startmenü mit den Auswahlmöglichkeiten "Play" u
 
 Wenn der "Play" Button angeklickt wird, erscheint ein neues Menu mit den Möglichkeiten EInzelspieler und Mehrspieler.
 
-![3axvaw9y](https://user-images.githubusercontent.com/88385824/143930741-8400e1e9-f838-405a-899e-0f3b96b0459c.gif)
-
+![d6br25m6](https://user-images.githubusercontent.com/88385824/143944069-054079aa-4086-47dd-91d8-e7b39558e1cf.gif)
 
 
 ### Steuerung
