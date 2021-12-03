@@ -33,6 +33,8 @@ Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht
 
 Das Rennen findet auf dieser Karte statt und der Gewinner ist der, der zuerst drei Runden absolviert.
 
+
+
 ### Der Code
 
 #### Beginn des Spiels
