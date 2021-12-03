@@ -89,6 +89,7 @@ Durch Anklicken des Steuerungsmenü wird der Countdownsprite gestartet, dieser s
  </details> <hr>
  
 #### Mehrspieler  
+Wenn man sich im Menü zur Auswahl des Spielmodis befindet und den Mehrspieler anklickt, kommt man wieder in das Steuerungsmenü. Hier wird alllerdings anders als beim Einzelspieler die Steuerung vom Spieler 1 und Spieler 2 erklärt. Mario wird mit den Pfeiltasten und der Leertaste gelenkt. Luigi mit A,D und B. Beide Speieler haben die gleiche Geschwindigkeit und müssen Versuchen durch geschicktes Lenken und Einsetzen der Items das Rennen zu gewinnen. Wie auch im Einzelspieler fährt man drei Runden. 
 
 ### Steuerung
 ## Stundenprotokoll
