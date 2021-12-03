@@ -141,6 +141,7 @@ Wenn die rechte oder linke Pfeiltaste gedrückt wird drehen sich der rote Punkt 
   
 Beim Spieler zwei funktioniert das Lenken idetisch, nur das man A und D zum Lenken verwedet.
   
+![links rechts luigi](https://user-images.githubusercontent.com/88385824/144685119-124041a2-7dc0-426c-9ab8-e9a925ac35ae.PNG)
 
 
  </details> <hr>
