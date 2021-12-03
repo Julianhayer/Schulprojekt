@@ -70,7 +70,11 @@ Das Steuerungsmenü entsteht durch die Message "Steuerung Einzelspieler", der Sp
 
 ![86zvjvy1](https://user-images.githubusercontent.com/88385824/144624672-78c2392e-d530-4196-a554-8ecf6620ab23.gif)
 
+![start einzelspieler github](https://user-images.githubusercontent.com/88385824/144624793-5b381323-dc19-4562-8130-c9df9ccccdd6.PNG)
 
+![Countdown start Einzelspieler](https://user-images.githubusercontent.com/88385824/144624800-d47a1fe1-3c13-4375-90d0-10a3b1477942.PNG)
+
+![start game einzelspieler github](https://user-images.githubusercontent.com/88385824/144624803-fa104014-8bdb-4373-b8a0-c48ed1eaf237.PNG)
 
 ![Einzelspieler button github](https://user-images.githubusercontent.com/88385824/144621732-62292732-c6a9-4950-ab82-7b85d01cb1db.PNG)
 
