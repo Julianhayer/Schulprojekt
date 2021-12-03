@@ -5,12 +5,16 @@
  * [Programm](#Programm)
  
  * [Aufbau des Spiels](#AufbaudesSpiels)
-    * [Spielidee](#Spielidee) 
-    * [Der Code](#DerCode)
+    * [Spielidee](#Spielidee)
     * [verschiedene Spielmodi](#verschiedeneSpielmodi)
-    * [Steuerung](#Steuerung)
+    * [Steurung](#Steurung)
+ 
+ * [wichtige Objekte](#wichtige Objekte)
+    * [Karte](#Karte)
+    * [Rundenzähler](#Rundenzähler)
+    * [Items](#Items)
 
-* [Stundenprotokoll](#Stundenprotokoll)
+* [Arbeitstagebuch](#Arbeitstagebuch)
 
 
 
