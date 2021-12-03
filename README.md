@@ -64,7 +64,9 @@ Wenn der "Play" Button angeklickt wird, erscheint ein neues Menu mit den Möglic
 
 Beim Anklicken des Einzelspieler Buttons wird man zur Erklärung der Steuerung weitergeleitet.
 
+![Steuerungsscreen 1 github](https://user-images.githubusercontent.com/88385824/144622218-eb25df75-4774-423e-b4c9-c22102e2bca4.PNG)
 
+Das Steuerungsmenü entsteht durch die Message "Steuerung Einzelspieler", der Sprite wechselt dann zwischen zwei Kostümen. 
 
 
 ![Einzelspieler button github](https://user-images.githubusercontent.com/88385824/144621732-62292732-c6a9-4950-ab82-7b85d01cb1db.PNG)
