@@ -80,6 +80,8 @@ Durch Anklicken des Steuerungsmenü wird der Countdownsprite gestartet, dieser s
 
 ![start game einzelspieler github](https://user-images.githubusercontent.com/88385824/144624803-fa104014-8bdb-4373-b8a0-c48ed1eaf237.PNG)
 
+![h6js39kd](https://user-images.githubusercontent.com/88385824/144629680-ae08ace1-44c5-4e27-92cb-9026cdb70bdb.gif)
+
 
 ### Steuerung
 ## Stundenprotokoll
