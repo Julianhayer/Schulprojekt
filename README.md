@@ -60,10 +60,14 @@ Wenn der "Play" Button angeklickt wird, erscheint ein neues Menu mit den Möglic
 
 ![d6br25m6](https://user-images.githubusercontent.com/88385824/143944069-054079aa-4086-47dd-91d8-e7b39558e1cf.gif)
 
+![Einzelspieler button click github](https://user-images.githubusercontent.com/88385824/144621952-2cc696a2-cf32-4e03-8829-da1f3b9cf907.PNG)
+
+Beim Anklicken des Einzelspieler Buttons wird man zur Erklärung der Steuerung weitergeleitet.
+
+
 
 
 ![Einzelspieler button github](https://user-images.githubusercontent.com/88385824/144621732-62292732-c6a9-4950-ab82-7b85d01cb1db.PNG)
-
 
 ### Steuerung
 ## Stundenprotokoll
