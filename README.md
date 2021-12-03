@@ -14,7 +14,6 @@
     * [Rundenzähler](#Rundenzähler)
     * [Items](#Items)
 
-* [Arbeitstagebuch](#Arbeitstagebuch)
 
 
 
@@ -121,6 +120,6 @@ Wenn dann weitergeklickt wird, startet sich der Countdown dieser zählt von 3 ru
 </details> <hr>
 
 ### Steuerung
-## Arbeitstagebuch
+
 
 
