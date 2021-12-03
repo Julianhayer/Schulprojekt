@@ -121,6 +121,10 @@ Wenn dann weitergeklickt wird, startet sich der Countdown dieser zählt von 3 ru
 
 ## Steuerung
 Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Items kann man mit der Leertaste auslösen. Der Spieler 2 lenkt mit A und D und löst seine Items mit B aus. Die Geschwindigkeit kann ohne das Verwenden von Items oder das Nichtfahren auf der Straße nicht verändert werden. 
+ 
+![links mario](https://user-images.githubusercontent.com/88385824/144681318-b38ab456-16a1-4555-98bd-5a8b552f4d3b.PNG)
+![rechts mario](https://user-images.githubusercontent.com/88385824/144681326-21a88f42-9690-41d4-869e-bbccbeab9187.PNG)
+
 
 
 
