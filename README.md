@@ -181,4 +181,6 @@ Damit die zweite Karte nicht zu sehen ist, gibt es in Scratch einen "Ghost Effec
 
 ### Rundenzähler 
 Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. 
- 
+
+![Lapcounter](https://user-images.githubusercontent.com/88385824/144714816-0271804f-751b-4279-92f8-dc2aeb3122dd.PNG)
+
