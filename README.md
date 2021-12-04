@@ -178,3 +178,7 @@ Es handelt sich bei der Geschwindigkeit, um eine Variable, die bei Beginn des Sp
 Damit die zweite Karte nicht zu sehen ist, gibt es in Scratch einen "Ghost Effect" wodurch die Karte nicht zu sehen ist, die Sprite aber dennoch mit ihm interagieren können. Demnach erkennen der "Player 1" und "Player 2", dass sie die Farbe berühren, wodurch die Speed Varible verändert wird.
  
 </details> <hr>
+
+### Rundenzähler 
+Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. 
+ 
