@@ -144,6 +144,8 @@ Beim Spieler zwei funktioniert das Lenken identisch, nur das man A und D zum Len
   
 ![links rechts luigi](https://user-images.githubusercontent.com/88385824/144685119-124041a2-7dc0-426c-9ab8-e9a925ac35ae.PNG)
 
-  
+![luigi sprite](https://user-images.githubusercontent.com/88385824/144709098-ee67fcd0-529d-4df1-bb5f-152dcd48c34d.PNG)
+
+Auch hier befindet sich der Luigi Sprite dauerhaft auf einem roten Punkt, dessen Sprite "Player 2" heißt. 
 
  </details> <hr>
