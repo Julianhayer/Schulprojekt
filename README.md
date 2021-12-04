@@ -207,3 +207,19 @@ Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Gho
  
  ### Items
  Die Items sind das Herzstück von Mario Kart und unterscheiden es von anderen Rennspielen. Man kann sie verwenden, um schneller zu werden oder seinen Gegner zu sabotieren. Es gibt 4 verschiedenene Items:
+Die Mushrooms, die kurzzeitig deine Geschwindigkeit verändern. 
+
+ ![mushroom](https://user-images.githubusercontent.com/88385824/144716204-17780753-1208-434a-9356-d192825c8179.PNG)
+
+Die Bananen, die hinter den Spieler plaziert werden. Wenn man über eine Banane fährt, dreht man sich um 720 Grad.
+
+![banana](https://user-images.githubusercontent.com/88385824/144716205-cb97903c-d801-4206-aa0e-300091881b58.PNG)
+
+Die Green Shell, die nach vorne geschossen wird. WEnn man von ihr getroffen wird dreht man sich um 1080 Grad.
+
+![green shell](https://user-images.githubusercontent.com/88385824/144716207-0fc5d1c5-a2b1-417e-ae81-9516ce6a4ff2.PNG)
+
+Die Red Shell, die den Gegner verfolgt. Wenn man von ihr getroffen wird dreht man sich ebenfalls um 1080 Grad.
+
+![red shell](https://user-images.githubusercontent.com/88385824/144716208-ab4b0820-0cb6-4195-a849-44f0338341e2.PNG)
+
