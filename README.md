@@ -158,6 +158,10 @@ Es handelt sich bei der Karte um Marios Piste 1 aus Super Mario Kart, dass im Ja
  <details>
  <summary>Genauer</summary>
  
+![map github](https://user-images.githubusercontent.com/88385824/143918804-346d21d4-c54f-4d47-b981-a4b120c6014d.png)
  
+ Die Karte besteht aus dem Asphalt, dem Sand und der Rasen, der durch eine Spielfeldumrandung von der Piste getrennt ist. Alle Bereiche unterscheiden sich in ihrer Farbe, Grau, braun und grün. Damit der Sprite die einzelnen Bereiche der Karte erkennt haben wir eine zweite Map, die von der Größe her mit de3r Originalkarte übereinstimmt und auf die regenbogenfarbende Fahrbahnumrandung verzichtet. Sie erhält lediglich die drei Farben, damit Mario und Luigi erkenne, wenn sie die Fahrbahn verlassen. 
+  
+
  
 </details> <hr>
