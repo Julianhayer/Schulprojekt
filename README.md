@@ -149,3 +149,8 @@ Beim Spieler zwei funktioniert das Lenken identisch, nur das man A und D zum Len
 Auch hier befindet sich der Luigi Sprite dauerhaft auf einem roten Punkt, dessen Sprite "Player 2" heißt. 
 
  </details> <hr>
+
+## Wichtige Objekte
+
+### Karte
+Es handelt sich bei der Karte um Marios Piste 1 aus Suoer Maio Kart, dass im Jahr 1992 auf dem Super Nintendo Entertainment System (kurz:SNES) veröffentlicht wurde. Der Spieler ist auf dem Asphalt am schnellsten und die Geschwindigkeit nimmt ab, wenn man die Strecke verlässt und auf dem Sand fährt. Bei der Regenbogenfarbedenen Fahrbahnumrandung handelt es sich um Wände gegen die man fährt, durch die zweidimesionale Darstellung wird dies beim ersten Blick nicht firekt klar. Wenn der Spieler die Fahrbahnumrandung berührt wird seine Geschwindigkeit durch den Abprall negative gesetzt, kurz danach beschleunigt er wieder und der Prozess wiederholt sich, wodurch man nicht an dieser Wand vorbei fahren ka, man aber durch den Abprall nicht unendlich lange nach hinten fährt.
