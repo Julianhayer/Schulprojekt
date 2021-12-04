@@ -190,7 +190,7 @@ Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. Es handelt sich h
 
 ![Checkpoint start](https://user-images.githubusercontent.com/88385824/144715222-411e3734-37fb-4c70-8070-e7d70e0a86c5.PNG)
 
-Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Ghost Effect" nicht zu sehen ist, wenn sich Mario und Luigi ihn jedoch berühren können sie dennoch mit ihm interagieren und die Rundenvariable wird, sofern der Checkpoint vorher berührt wurde, hochgesetzt. 
+Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Ghost Effect" nicht zu sehen ist, wenn Mario und Luigi ihn jedoch berühren können sie dennoch mit ihm interagieren und die Rundenvariable wird, sofern der Checkpoint vorher berührt wurde, hochgesetzt. 
 
 
 ![Checkpoint](https://user-images.githubusercontent.com/88385824/144715352-c5e7871c-5150-47bc-b8b5-31ed76ffa4bf.PNG)
