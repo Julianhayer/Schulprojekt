@@ -207,7 +207,8 @@ Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Gho
  
  ### Items
  Die Items sind das Herzstück von Mario Kart und unterscheiden es von anderen Rennspielen. Man kann sie verwenden, um schneller zu werden oder seinen Gegner zu sabotieren. Es gibt 4 verschiedenene Items:
-Die Mushrooms, die kurzzeitig deine Geschwindigkeit verändern. 
+
+ Die Mushrooms, die kurzzeitig deine Geschwindigkeit verändern. 
 
  ![mushroom](https://user-images.githubusercontent.com/88385824/144716204-17780753-1208-434a-9356-d192825c8179.PNG)
 
