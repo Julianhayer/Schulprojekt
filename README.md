@@ -187,6 +187,13 @@ Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. Es handelt sich h
 <details>
  <summary>Genauer</summary>
  Um dem Problem aus dem Weg zu gehen, dass man mehrmals über die Zielinie fährt,um den die Rundenvariable zu erhöhen, gibt es einen gelbe Checkpoint, über den man fahren muss, erst dann ist er sich bei Kontakt mit der Zielinie die Rundenvariable. Zu Beginn ist die Checkpoint auf 1, und wird beim Überfahrren der Ziellinie runtergesetzt. 
+
+![Checkpoint start](https://user-images.githubusercontent.com/88385824/144715222-411e3734-37fb-4c70-8070-e7d70e0a86c5.PNG)
+
+Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Ghost Effect" nicht zu sehen ist, wenn sich Mario und Luigi ihn jedoch berühren können sie dennoch mit ihm interagieren und die Rundenvariable wird, sofern der Checkpoint vorher berührt wurde, hochgesetzt. 
  
+![touch checkpoint](https://user-images.githubusercontent.com/88385824/144715219-977fd39d-45fe-4e83-8bb8-7fbed5639c91.PNG)
+![touch finish](https://user-images.githubusercontent.com/88385824/144715220-28a22637-7d73-4680-8ab3-7ed51ebf1a56.PNG)
+
  
  </details> <hr>
