@@ -203,3 +203,7 @@ Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Gho
 
  
  </details> <hr>
+ 
+ 
+ ### Items
+ Die Items sind das Herzstück von Mario Kart und unterscheiden es von anderen Rennspielen. Man kann sie verwenden, um schneller zu werden oder seinen Gegner zu sabotieren. Es gibt 4 verschiedenene Items:
