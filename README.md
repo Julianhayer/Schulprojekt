@@ -180,7 +180,7 @@ Damit die zweite Karte nicht zu sehen ist, gibt es in Scratch einen "Ghost Effec
 </details> <hr>
 
 ### Rundenzähler 
-Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. 
+Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. Es handelt sich hierbei um eine Variable, die sich erhöht wenn man über den gelben Checkpoint und die Ziellinie gefahren ist. Beide Spieler starten mit einer Rundenzahl von -1, da bei einer Rundenzahl von 0 das Problem auftetren würde, dass man beim ersten Kontakt mit der Zielinie die Variable auf 1 wäre.  
 
 ![Lapcounter](https://user-images.githubusercontent.com/88385824/144714816-0271804f-751b-4279-92f8-dc2aeb3122dd.PNG)
 
