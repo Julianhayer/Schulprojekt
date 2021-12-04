@@ -140,9 +140,10 @@ Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Item
 
 Wenn die rechte oder linke Pfeiltaste gedrückt wird drehen sich der rote Punkt und Mario um jeweils 7 Grad. 
   
-Beim Spieler zwei funktioniert das Lenken idetisch, nur das man A und D zum Lenken verwedet.
+Beim Spieler zwei funktioniert das Lenken identisch, nur das man A und D zum Lenken verwendet.
   
 ![links rechts luigi](https://user-images.githubusercontent.com/88385824/144685119-124041a2-7dc0-426c-9ab8-e9a925ac35ae.PNG)
 
+  
 
  </details> <hr>
