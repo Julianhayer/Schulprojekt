@@ -216,7 +216,7 @@ Die Bananen, die hinter den Spieler plaziert werden. Wenn man über eine Banane 
 
 ![banana](https://user-images.githubusercontent.com/88385824/144716205-cb97903c-d801-4206-aa0e-300091881b58.PNG)
 
-Die Green Shell, die nach vorne geschossen wird. WEnn man von ihr getroffen wird dreht man sich um 1080 Grad.
+Die Green Shell, die nach vorne geschossen wird. Wenn man von ihr getroffen wird dreht man sich um 1080 Grad.
 
 ![green shell](https://user-images.githubusercontent.com/88385824/144716207-0fc5d1c5-a2b1-417e-ae81-9516ce6a4ff2.PNG)
 
