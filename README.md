@@ -167,7 +167,9 @@ Es handelt sich bei der Karte um Marios Piste 1 aus Super Mario Kart, dass im Ja
 Dies ist die zweite Karte.
 
 
-![Speed Player 1](https://user-images.githubusercontent.com/88385824/144713990-170ef1c4-3157-40f6-958d-44632e519deb.PNG)
+![Speed Player 1](https://user-images.githubusercontent.com/88385824/144713990-170ef1c4-3157-40f6-958d-44632e519deb.PNG) 
+![speed player 1  s](https://user-images.githubusercontent.com/88385824/144714451-ea5d9eb0-82ea-4335-babd-da4215999b6d.PNG)
+
 
 Es handelt sich bei der Geschwindigkeit, um eine Variable, die bei Beginn des Spiels, bis maximal 5 erhöht wird. Sofern man sich auf dem Asphalt befidnet erhöht sie sich jede Sekunde um 0,5 bis sie 5 erreicht. Der Spieler bewegt sich in Speed Steps, was bedeutet, dass er immer so viele Schritte macht, wie die Variable hoch ist. Wenn man sich auf dem Sand befindet wird die Speed Variable mit 0,8 multipliziert wodurch sich die Speed Variable verringern und man langsamer wird. Wenn man die Fahrbahnumrandung oder den Rasen berührt, wird die Variable *(-0,5) multipliziert und man fährt rückwärts. Berührt man dann nur noch den Sand wird die Variable positiv und man fährt wieder nach vorne.
 
