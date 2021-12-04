@@ -184,4 +184,9 @@ Rechts oben sind die Rundenzahlen der beiden Spieler zu sehen. Es handelt sich h
 
 ![5wlj4y1p](https://user-images.githubusercontent.com/88385824/144714988-9ba78389-1753-4ba0-87f8-166aea3852d0.gif)
 
-
+<details>
+ <summary>Genauer</summary>
+ Um dem Problem aus dem Weg zu gehen, dass man mehrmals über die Zielinie fährt,um den die Rundenvariable zu erhöhen, gibt es einen gelbe Checkpoint, über den man fahren muss, erst dann ist er sich bei Kontakt mit der Zielinie die Rundenvariable. Zu Beginn ist die Checkpoint auf 1, und wird beim Überfahrren der Ziellinie runtergesetzt. 
+ 
+ 
+ </details> <hr>
