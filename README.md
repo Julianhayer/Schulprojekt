@@ -173,5 +173,6 @@ Dies ist die zweite Karte.
 
 Es handelt sich bei der Geschwindigkeit, um eine Variable, die bei Beginn des Spiels, bis maximal 5 erhöht wird. Sofern man sich auf dem Asphalt befidnet erhöht sie sich jede Sekunde um 0,5 bis sie 5 erreicht. Der Spieler bewegt sich in Speed Steps, was bedeutet, dass er immer so viele Schritte macht, wie die Variable hoch ist. Wenn man sich auf dem Sand befindet wird die Speed Variable mit 0,8 multipliziert wodurch sich die Speed Variable verringern und man langsamer wird. Wenn man die Fahrbahnumrandung oder den Rasen berührt, wird die Variable *(-0,5) multipliziert und man fährt rückwärts. Berührt man dann nur noch den Sand wird die Variable positiv und man fährt wieder nach vorne.
 
+  
  
 </details> <hr>
