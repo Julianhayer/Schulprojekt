@@ -227,4 +227,18 @@ Die Red Shell, die den Gegner verfolgt. Wenn man von ihr getroffen wird dreht ma
 ### Item Reel
 Die Auswahl der Items erfolgt über das Item Reel. Bei Beginn des Spiel erscheint das Item Reel und beginnt zwischen dem Mushroom, der Banane, der Green Shell und der Red Shell zufällig ein Item auszuwählen. Wenn ein Item ausgewählt wird, stoppt das Item Reel bis zur Benutzung des Items. Nach 3 Sekunden beginnt es dann wieder mit der zufälligen Auswahl der Items. 
  
+![nzk71frc](https://user-images.githubusercontent.com/88385824/144742282-2ec8de41-2d22-4c97-848e-0e5f55f4d588.gif)
+
+Das Item Reel besteht aus dieses 4 Items und das Item, dass als letztes erscheint, erhält der Spieler.
  
+<details>
+ <summary>Genauer</summary>
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ </details> <hr>
