@@ -234,6 +234,17 @@ Das Item Reel besteht aus dieses 4 Items und das Item, dass als letztes erschein
 <details>
  <summary>Genauer</summary>
  
+![Kostüme Item Reel Sprite](https://user-images.githubusercontent.com/88385824/144742464-4d9649ba-794c-49be-8c73-27e952d4b194.PNG)
+ 
+ Der Item Reel Sprite besteht aus diesen 5 Kostümen.
+ 
+ 
+Wenn das Spiel beginnnt erscheint das Item Reel des Spieler 1 oben neben der Rundenanzahl. Das Item Reel des Spieler 2 befindet sich unten neben dem Timer. Sobald das Item Reel erscheint wählt es zwischen einer zufälligen Zahl zwischen 60 bis 64. Wenn eine Zahl X ausgehwählt wurde geht der Sprite X mal zum nächsten Kostüm. Wenn es sich beim 2. Kostüm befindet wird das Kostüm mit dem Green Shell ausgewählt, beim 3. der Mushroom, beim 4. die Red Shell und beim 5. die Banane. Wenn ein Kostüm ausgewählt wird, broadcastet dies die Message des jeweiligen Items, wodurch das Item hinter dem Spieler erscheint. Das 1.Kostüm ist ein leeres Item Reel, wenn dieses ausgewählt wird, wird die Message "leeres Item Reel" gebroadcastet, was dazu führt, dass das Item Reel eine neue Zahl zwischen 60 bis 64 auswählt. 
+
+![Item Reel Code](https://user-images.githubusercontent.com/88385824/144742466-dd0377a4-8bed-4923-963e-86791ade7f3b.PNG)
+![leeres Item Reel Code](https://user-images.githubusercontent.com/88385824/144742465-dec91992-2b2e-4ae7-82a8-43371787a077.PNG)
+
+
 
   
  
