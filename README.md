@@ -205,7 +205,7 @@ Bei der Zielinie handelt es sich um eine Schwarze Linie, die sich durch den "Gho
  </details> <hr>
  
  
- ### Items
+ ## Items
  Die Items sind das Herzstück von Mario Kart und unterscheiden es von anderen Rennspielen. Man kann sie verwenden, um schneller zu werden oder seinen Gegner zu sabotieren. Es gibt 4 verschiedenene Items:
 
  Die Mushrooms, die kurzzeitig deine Geschwindigkeit verändern. 
@@ -224,3 +224,5 @@ Die Red Shell, die den Gegner verfolgt. Wenn man von ihr getroffen wird dreht ma
 
 ![red shell](https://user-images.githubusercontent.com/88385824/144716208-ab4b0820-0cb6-4195-a849-44f0338341e2.PNG)
 
+### Item Reel
+Die Auswahl der Items erfolgt über das Item Reel. Bei Beginn des Spiel erscheint das Item Reel und beginnt zwischen dem Mushroom, der Banane, der Green Shell und der Red Shell zufällig ein Item auszuwählen. Wenn ein Item ausgewählt wird, stoppt das Item Reel bis zur Benutzung des Items. Nach 3 Sekunden beginnt es dann wieder mit der zufälligen Auswahl der Items. 
