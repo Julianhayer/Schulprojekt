@@ -254,9 +254,15 @@ Die Mushrooms werden verwendet, um einen Geschwindigkeitsboot zu erhalten. Diese
 ![mushroom code player 1](https://user-images.githubusercontent.com/88385824/144920083-0a4bce8b-39c2-4466-a59e-8711a0b985d3.PNG)
  
  #### Banane
- Die banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu bringen. Wenn Leertaste oder B gedrückt wird, wird die Banane ien wenig hinter dem Spieler plaziert und kreiert einen Klon von sich. Wenn dieser Klon sich dem gegnerischen Spieler nähert, wird die Message "Banana hit" gebroadcastet, die den Spiler zum Drehen bringt. Dieser löst dann widderum eine Message aus, die die Banane zum Verschwinden bringt.
+Die Banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu bringen. Wenn Leertaste oder B gedrückt wird, wird die Banane ien wenig hinter dem Spieler plaziert und kreiert einen Klon von sich. Wenn dieser Klon sich dem gegnerischen Spieler nähert, wird die Message "Banana hit" gebroadcastet, die den Spiler zum Drehen bringt. Dieser löst dann widderum eine Message aus, die die Banane zum Verschwinden bringt.
  
  
+![banane code ende](https://user-images.githubusercontent.com/88385824/144920897-6974def2-a43f-40e3-a94e-18b265b29c14.PNG)
+![banane code ende 2](https://user-images.githubusercontent.com/88385824/144920902-70a2b951-01fb-4912-8f2c-8614740a750c.PNG)
+
+![banane code player](https://user-images.githubusercontent.com/88385824/144920904-d5a2e47e-6546-4d52-9f16-063985e3fdb7.PNG)
+
+
  
 
 
