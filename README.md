@@ -266,7 +266,15 @@ Die Banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu 
  #### Red Shell
  Die Red Shell verfolgt bei Verwendung des Items den gegnerischen Spieler und bringt ihn dazu sich zu Drehen. Auch sie kreiert beim Auslösen einen Klon. Dieser triggert beim Annähern vom gegenerischen Spieler eine Message "Red Shell Hit", die diesen zum Drehen bringt. Der Klon wird nach Berührung des gegnerischen Spielers gelöscht.
 
+![Red Shell code ende](https://user-images.githubusercontent.com/88385824/144921628-fac85cd1-9f72-4f5b-b4ed-bb6a864ba41c.PNG)
 
+![red shell ende player](https://user-images.githubusercontent.com/88385824/144921631-3d3c961d-dcce-4a7f-81d8-01bb6c9357c2.PNG)
+
+ 
+#### Green Shell
+ Die Green Shell wird auch verwendet um den Spieler zum Drehen zu bringen. Dieses Item wird jedoch anders als die Red Shell nach vorne geschossen und der gegnerische Spielr wird nur gederht, wenn er getroffen wird. Wir haben versucht die Green Shell an der Wand abprallen zu lassen, indem die Variable bei jedem Kontakt mit der Fahrbahnumrandung hochgesetzt wird und nach 4 Kontakte die Green Shell verschwindet. Außerdem soll bei Berührung der Green Shell mit der Wand die Richtung um 180 Grad verädnert werden. Dies hat allderings nicht funktioniert, leider hatten wir keinen anderen Lösungsansatz. Wie auch die Red Shell wird der wird der gegnerische Spieler gedreht, wenn der Spieler sich der Green Shell nähert. Wenn dies passiert wird der Klon gelöscht. 
+ 
+ 
 
   
   </details> <hr> 
