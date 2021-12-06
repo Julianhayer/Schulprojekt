@@ -251,7 +251,7 @@ Wenn das Spiel beginnnt erscheint das Item Reel des Spieler 1 oben neben der Run
 ![leeres Item Reel Code](https://user-images.githubusercontent.com/88385824/144742465-dec91992-2b2e-4ae7-82a8-43371787a077.PNG)
 
 
-
+  </details> <hr> 
  
  #### Mushrooms
 Die Mushrooms werden verwendet, um einen Geschwindigkeitsboost zu erhalten. Dieser erfolgt nur kurzeitig und währenf des Geschwindkeitsboostes erscheint ein anderes Kostüm, dass ein einen Feuerball darstellt. Wenn das Item Reel die Message "Mushroom" broadcastet, erscheitn der Mushroom hinter dem Spieler, wenn dann Leertaste oder b gedrückt wird, wechselt sich das Kostüm und die Message "Mushroom Speedboost2" wird gebroadcastet. Dies erzeugt beim Player eine Erhöhung der Speedvariable für 2 Sekunden. 
@@ -288,7 +288,6 @@ Die Banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu 
 
 
   
-  </details> <hr> 
  
  ## Timer
  Der Timer zeigt dem Spieler an wie viel Zeit vergangen ist. Am Ende des Spiel wird die Zeit in der Mitte des Bilschirms angezeigt, um zu zeigen wie schnell man war. Der Timer besteht aus 3 verschiedenen Sprites, die für verschiedene Zehnerpotenzen stehen. Der Rechte ändert jede Sekunde zum nächsten Kostüm nach 10 Sekunden broadcastet er die Message "10 Sekunden", die den mittleren Sprite ein Kostüm weitergehen lässt. Wenn diser Sprite seine Rotation einmal durchgegangen ist und wieder beim ersten Kostüm angekommen, also der 0 angekommen ist, setzt er die  100 Sekunden Variable um einen hoch, was die Message "100 Sekunden" broadcastet. Dies sorgt dafür, dass der linke Sprite auf 1 gesetzt wird. 
