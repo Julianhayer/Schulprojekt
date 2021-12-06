@@ -224,7 +224,7 @@ Die Red Shell, die den Gegner verfolgt. Wenn man von ihr getroffen wird dreht ma
 
 ![red shell](https://user-images.githubusercontent.com/88385824/144716208-ab4b0820-0cb6-4195-a849-44f0338341e2.PNG)
 
-### Item Reel
+### Auswahl der Items
 Die Auswahl der Items erfolgt über das Item Reel. Bei Beginn des Spiel erscheint das Item Reel und beginnt zwischen dem Mushroom, der Banane, der Green Shell und der Red Shell zufällig ein Item auszuwählen. Wenn ein Item ausgewählt wird, stoppt das Item Reel bis zur Benutzung des Items. Nach 3 Sekunden beginnt es dann wieder mit der zufälligen Auswahl der Items. 
  
 ![nzk71frc](https://user-images.githubusercontent.com/88385824/144742282-2ec8de41-2d22-4c97-848e-0e5f55f4d588.gif)
@@ -247,11 +247,17 @@ Wenn das Spiel beginnnt erscheint das Item Reel des Spieler 1 oben neben der Run
 
 
  
- ### Mushrooms
-Die Mushrooms werden verwendet, um einen Geschwindigkeitsboot zu erhalten. Dieser erfolgt nur kurzeitig und währen des Geschwindkeitsboostes ershceint ein anderes Kostüm, dass ein einen Feuerball darstellt. Wenn das Item Reel die Message "Mushroom" broadcastet, erschein der Mushroom hinter dem Spieler, wenn dann Leertaste oder b gedrückt wird, wechselt sich das Kostüm und die Message "Mushroom Speedboost2 wird gebroadcastet. Dies erzeugt beim Player eine Erhöhung der Speedvariable für 2 Sekunden. 
+ #### Mushrooms
+Die Mushrooms werden verwendet, um einen Geschwindigkeitsboot zu erhalten. Dieser erfolgt nur kurzeitig und währen des Geschwindkeitsboostes erscheint ein anderes Kostüm, dass ein einen Feuerball darstellt. Wenn das Item Reel die Message "Mushroom" broadcastet, erschein der Mushroom hinter dem Spieler, wenn dann Leertaste oder b gedrückt wird, wechselt sich das Kostüm und die Message "Mushroom Speedboost2 wird gebroadcastet. Dies erzeugt beim Player eine Erhöhung der Speedvariable für 2 Sekunden. 
  
 ![mushroom code ende](https://user-images.githubusercontent.com/88385824/144920078-99740913-7a48-48da-8959-2ef34584a175.PNG)
 ![mushroom code player 1](https://user-images.githubusercontent.com/88385824/144920083-0a4bce8b-39c2-4466-a59e-8711a0b985d3.PNG)
+ 
+ #### Banane
+ Die banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu bringen. Wenn Leertaste oder B gedrückt wird, wird die Banane ien wenig hinter dem Spieler plaziert und kreiert einen Klon von sich. Wenn dieser Klon sich dem gegnerischen Spieler nähert, wird die Message "Banana hit" gebroadcastet, die den Spiler zum Drehen bringt. Dieser löst dann widderum eine Message aus, die die Banane zum Verschwinden bringt.
+ 
+ 
+ 
 
 
 
