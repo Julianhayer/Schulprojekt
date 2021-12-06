@@ -42,7 +42,7 @@ Das Rennen findet auf dieser Karte statt und der Gewinner ist der, der zuerst dr
 
 
 ### Beginn des Spiels
-Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthäkt und die Möglichkeiten "Play" und "Steuerung". Wenn man mit dem Mauszeiger über die einzelnen Auswahlmöglichkeiten geht wechselt sich ihre Farbe. 
+Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthält mit den Auswwahlmöglichkeiten "Play" und "Steuerung". Wenn man mit dem Mauszeiger über die einzelnen Auswahlmöglichkeiten geht wechselt sich ihre Farbe. 
 
 ![3axvaw9y](https://user-images.githubusercontent.com/88385824/143930741-8400e1e9-f838-405a-899e-0f3b96b0459c.gif)
 
