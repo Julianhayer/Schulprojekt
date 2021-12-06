@@ -263,7 +263,8 @@ Die Banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu 
 ![banane code player](https://user-images.githubusercontent.com/88385824/144920904-d5a2e47e-6546-4d52-9f16-063985e3fdb7.PNG)
 
 
- 
+ #### Red Shell
+ Die Red Shell verfolgt bei Verwendung des Items den gegnerischen Spieler und bringt ihn dazu sich zu Drehen. Auch sie kreiert beim Auslösen einen Klon. Dieser triggert beim Annähern vom gegenerischen Spieler eine Message "Red Shell Hit", die diesen zum Drehen bringt. Der Klon wird nach Berührung des gegnerischen Spielers gelöscht.
 
 
 
