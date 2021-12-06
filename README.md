@@ -294,7 +294,9 @@ Die Banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu 
 
 ![100 sekunden](https://user-images.githubusercontent.com/88385824/144924138-a55963be-51d9-47f0-9ba8-b1aede33c0e3.PNG)
 
+![Endscreen Player 1with timer ](https://user-images.githubusercontent.com/88385824/144924579-7e17eb11-8e11-4855-ac1d-eb4895599128.PNG)
 
+ In der Mitte des Endscreens kann man seine Zeit sehen.
  
  
 
