@@ -13,6 +13,7 @@
     * [Karte](#Karte)
     * [Rundenzähler](#Rundenzähler)
     * [Items](#Items)
+    * [Timer](#Timer)
 
  * [Arbeitstagebuch](https://github.com/EnisAdzessi/Arbeitstagebuch.git)
 
@@ -283,6 +284,10 @@ Die Banane wird verwendet, um den gegnerischen Spielr bei Kontakt zum Drehen zu 
 
   
   </details> <hr> 
+ 
+ ## Timer
+ Der Timer zeigt dem Spieler an wie viel Zeit vergangen ist. Am Ende des Spiel wird die Zeit in der Mitte des Bilschirms angezeigt, um sie zeigen wie schnell man war. Der Timer besteht aus 3 verschiedenen Sprites, die für verschiedene Zehnerpotenzen stehen. Der ganz rechte ändert jede Sekunde zum nächsten Kostüm nach 10 Sekunden broadcastet er die Message "10 Sekunden", die den mittleren Sprite ein Kostum weiterschickt. Wenn diser Sprite seine Rotation einmal durchgegangen ist und wieder beim ersten Kostüm, also der 0 angekommen ist, setzt der 100 Sekunden Variable um einen hoch, was die Message "100 Sekunden" broadcastet. Dies sorgt dafür, dass der linke Sprite auf 1 gesetzt wird. 
+ 
  
  
  
