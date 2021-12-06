@@ -249,6 +249,11 @@ Wenn das Spiel beginnnt erscheint das Item Reel des Spieler 1 oben neben der Run
  
  ### Mushrooms
 Die Mushrooms werden verwendet, um einen Geschwindigkeitsboot zu erhalten. Dieser erfolgt nur kurzeitig und währen des Geschwindkeitsboostes ershceint ein anderes Kostüm, dass ein einen Feuerball darstellt. Wenn das Item Reel die Message "Mushroom" broadcastet, erschein der Mushroom hinter dem Spieler, wenn dann Leertaste oder b gedrückt wird, wechselt sich das Kostüm und die Message "Mushroom Speedboost2 wird gebroadcastet. Dies erzeugt beim Player eine Erhöhung der Speedvariable für 2 Sekunden. 
+ 
+![mushroom code ende](https://user-images.githubusercontent.com/88385824/144920078-99740913-7a48-48da-8959-2ef34584a175.PNG)
+![mushroom code player 1](https://user-images.githubusercontent.com/88385824/144920083-0a4bce8b-39c2-4466-a59e-8711a0b985d3.PNG)
+
+
 
   
   </details> <hr> 
