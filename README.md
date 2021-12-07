@@ -29,7 +29,7 @@ Als Programm für unser Spiel verwendeten wir "Scratch", eine besonders anfände
 ## Aufbau des Spiels
 
 ### Spielidee 
-Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht man wie jedem anderen Rennspiel auch, als erstes ins Ziel zu kommen. Die Besonderheit bei Mario Kart ist, dass man durch das Benutzen von verschiedenen Items sich einen Vorteil gegenüber seiner Mitstreiter erschaffen kann. Die Items haben dabei unterschiedliche Eigenschaften und ihre Auswahl passiert zufällig. Dies zeichnet Mario Kart aus und sorgt für ein kompetitives ein Wettbewerbgefühl, bei dem der Ausgangs des Spiel ein wenig von Glück abhängt und auch erfahrene Spieler gegen Anfänger verlieren können. 
+Bei unserem Spiel handelt es sich um das klassische Mario Kart, demnach versucht man wie bei jedem anderen Rennspiel auch, als erstes ins Ziel zu kommen. Die Besonderheit bei Mario Kart ist, dass man durch das Benutzen von verschiedenen Items sich einen Vorteil gegenüber seinen Mitstreitern erschaffen kann. Die Items haben dabei unterschiedliche Eigenschaften und ihre Auswahl passiert zufällig. Dies zeichnet Mario Kart aus und sorgt für ein kompetitives  Wettbewerbsgefühl, bei dem der Ausgangs des Spiel ein wenig von Glück abhängt und auch erfahrene Spieler gegen Anfänger verlieren können. 
 
 ![Item Reel github](https://user-images.githubusercontent.com/88385824/143916738-20c291af-9d69-458f-8c66-ebecc0e542f1.PNG)
 
@@ -48,7 +48,7 @@ Das Spiel beginnt mit einem Startbildschirm, der den Namen des Spiels enthält m
 
 ![3axvaw9y](https://user-images.githubusercontent.com/88385824/143930741-8400e1e9-f838-405a-899e-0f3b96b0459c.gif)
 
-Wenn man auf das "Play" drückt bekommt man die Möglichkeit im Einzelspieler oder Mehrspieler zu spielen. Auch hier ändert sich die Farbe wenn man mit dem Mauszeiger über die einzelnen Möglichkeiten geht.
+Wenn man auf das "Play" drückt bekommt man die Möglichkeit den Einzelspieler oder Mehrspieler zu spielen. Auch hier ändert sich die Farbe wenn man mit dem Mauszeiger über die einzelnen Möglichkeiten geht.
 
 ![d6br25m6](https://user-images.githubusercontent.com/88385824/143944069-054079aa-4086-47dd-91d8-e7b39558e1cf.gif)
 
@@ -96,7 +96,7 @@ Durch Anklicken des Steuerungsmenü wird der Countdownsprite gestartet, dieser s
  </details> <hr>
  
 ### Mehrspieler  
-Wenn man sich im Menü zur Auswahl des Spielmodis befindet und den Mehrspieler anklickt, kommt man wieder in das Steuerungsmenü. Hier wird alllerdings anders als beim Einzelspieler die Steuerung vom Spieler 1 und Spieler 2 erklärt. Mario wird mit den Pfeiltasten und der Leertaste gelenkt. Luigi mit A,D und B. Beide Speieler haben die gleiche Geschwindigkeit und müssen versuchen durch geschicktes Lenken und Einsetzen der Items das Rennen zu gewinnen. Die Items des Spieler 1 befinden sich oben und die Items von Spieler 2 unten. Wie auch im Einzelspieler fährt man drei Runden. 
+Wenn man sich im Menü zur Auswahl des Spielmodis befindet und den Mehrspieler anklickt, kommt man wieder in das Steuerungsmenü. Hier wird alllerdings anders als beim Einzelspieler die Steuerung vom Spieler 1 und Spieler 2 erklärt. Mario wird mit den Pfeiltasten und der Leertaste gelenkt. Luigi mit A,D und B. Beide Spieler haben die gleiche Geschwindigkeit und müssen versuchen durch geschicktes Lenken und Einsetzen der Items das Rennen zu gewinnen. Die Items des Spieler 1 befinden sich oben und die Items von Spieler 2 unten. Wie auch im Einzelspieler fährt man drei Runden. 
 
 ![Multiplayer screen github](https://user-images.githubusercontent.com/88385824/144643014-d492eb0b-f9fe-4e4b-bdc6-5acc1d62b520.PNG)
 
@@ -114,7 +114,7 @@ Wenn man sich im Menü zur Auswahl des Spielmodis befindet und den Mehrspieler a
 
 ![Countdown Multiplayer](https://user-images.githubusercontent.com/88385824/144657886-ba05d0be-0939-496d-8fd3-599f20d7677b.PNG)
  
-Wenn dann weitergeklickt wird, startet sich der Countdown, dieser zählt von 3 runter und startet das Spiel. Anders als beim Einzelspieler werden erscheinen hier Mario und Luigi, da beide durch die jeweiligen Messages "Spieler 1 Start" und "Spieler 2 Start" erscheinen. Außerdem erscheinen beide Item Reels der jeweiligen Spieler. Das von Spieler 1 oben und das von Spieler 2 unten. Diese werden durch die Message "Item Reel Spieler 1 Start" und "Item Reel Spieler 2 Start" getriggert.  
+Wenn dann weitergeklickt wird, startet sich der Countdown, dieser zählt von 3 runter und startet das Spiel. Anders als beim Einzelspieler erscheinen hier Mario und Luigi, da beide durch die jeweiligen Messages "Spieler 1 Start" und "Spieler 2 Start" erscheinen. Außerdem erscheinen beide Item Reels der jeweiligen Spieler. Das von Spieler 1 oben und das von Spieler 2 unten. Diese werden durch die Message "Item Reel Spieler 1 Start" und "Item Reel Spieler 2 Start" getriggert.  
 
  ![Start game multiplayer](https://user-images.githubusercontent.com/88385824/144657891-43f16acb-5136-4d4e-95ad-df61e6e93419.PNG)
 
@@ -124,7 +124,7 @@ Wenn dann weitergeklickt wird, startet sich der Countdown, dieser zählt von 3 r
 </details> <hr>
 
 ## Steuerung
-Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Items kann man mit der Leertaste auslösen. Der Spieler 2 lenkt mit A und D und löst seine Items mit B aus. Die Geschwindigkeit kann ohne das Verwenden von Items oder das Nichtfahren auf der Straße nicht verändert werden. 
+Der Spieler 1, der Mario steuert, lenkt mit den Pfeiltasten <-- und -->.Die Items kann man mit der Leertaste auslösen. Der Spieler 2, der Luigi steuert, lenkt mit A und D und löst seine Items mit B aus. Die Geschwindigkeit kann ohne das Verwenden von Items oder das Nichtfahren auf der Straße nicht verändert werden. 
 
  <details>
  <summary>Genauer</summary>
